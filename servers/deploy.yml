@@ -1,5 +1,5 @@
 Description: >
-  David Jarrin / Udacity 2021
+  David Jarrin Deploy a High Availability Web-App Using CloudFormation Server Script / Udacity 2021
 
 Parameters:
 # whatever you consider a changing value, put it as a parameter instead of hard-coding it into your script
