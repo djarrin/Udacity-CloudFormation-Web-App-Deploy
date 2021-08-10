@@ -11,4 +11,4 @@ First clone the project and change directories into the base of the project.
 1. Run the command ```deploy-scripts/create.sh {NetworkStackName} network/deploy.yml network/parameters.json``` 
 2. Watch and wait until this stack has completed deploying
 3. Once the network stack has completed deploying run ```deploy-scripts/create.sh {ServerStackName} servers/deploy.yml servers/parameters.json```
-
+4. Wait until at all of your EC2 instances has fully initialized and passed testing then check the load balancer URL.
